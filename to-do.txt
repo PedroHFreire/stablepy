@@ -1,0 +1,31 @@
+4.	Create a __init__.py file in the root directory of your package. This file is used to specify the package's initialization code, 
+and it is executed when the package is imported. - ok
+5.	Write your code and organize it into appropriate modules and subpackages. For example, you might have a module called financial_analysis - ok
+that contains functions related to financial analysis, and a subpackage called stock_data that contains modules for retrieving and processing stock data. - ok
+6.	Test your code to make sure it's working as expected. 4
+7.	Use the setup.py file to create a distribution of your package. This will create a package that can be installed using pip, the Python package manager. 3
+8.	Publish your package to a package repository such as PyPI (the Python Package Index) so that others can install and use it. 2
+
+
+
+Choose a license for your package. This will allow others to use and modify your code, provided they adhere to the terms of the license.
+Some common open source licenses include the MIT License, the Apache License, and the GNU General Public License (GPL). 
+You can specify the license in the setup.py file. - ok
+
+Write documentation for your package. This can include a README file that describes what your package does, how to install it, and how to use it.
+You may also want to include API documentation for each of your functions and modules. 1
+
+Create a test suite for your package. This can help ensure that your package is working correctly and can be used by others with confidence. 
+You can use a testing framework such as pytest or unittest to write and run your tests. - ok
+
+Consider using a version control system such as Git to manage the development of your package. This will allow you to track changes to your code, 
+collaborate with others, and roll back changes if necessary. - ok
+
+Consider using a package management tool such as Poetry or pipenv to manage your package dependencies and create virtual environments for your project. 
+This can help ensure that your package can be installed and run consistently on different systems. - no
+
+Before publishing your package, make sure to follow the guidelines for creating and publishing packages on PyPI. This will help ensure that 
+your package is easy for others to install and use. - 5
+
+Create other modules according to chat0, chat1 and stabler (risk module, report module)
+Create functions for each module according to chat0, chat1 and stabler 
