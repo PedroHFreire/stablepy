@@ -3,7 +3,7 @@ from .return_metrics import calculate_returns, calculate_portfolio_returns, calc
 
 # Define any initialization code for the package
 def initialize():
-    print("Initializing stable package")
+    print("Initializing stablepy package")
 
 # Execute the initialization code when the package is imported
 initialize()

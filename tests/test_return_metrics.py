@@ -1,7 +1,7 @@
 import numpy as np
 import pytest
 
-from stable import return_metrics
+from stablepy import return_metrics
 
 def test_calculate_returns():
     # Test arithmetic returns
