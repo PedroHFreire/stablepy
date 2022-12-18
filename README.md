@@ -36,3 +36,6 @@ return_metrics: Contains functions for calculating returns and portfolio statist
 
 ## License
 Stablepy is released under the MIT License. See the LICENSE file for more information.
+
+## Other
+This package was developed with the help of OpenAI's Assistant language model.
