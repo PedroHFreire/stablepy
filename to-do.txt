@@ -1,3 +1,4 @@
+	This will be the launch of version 1.0.0
 4.	Create a __init__.py file in the root directory of your package. This file is used to specify the package's initialization code, 
 and it is executed when the package is imported. - ok
 5.	Write your code and organize it into appropriate modules and subpackages. For example, you might have a module called financial_analysis - ok
@@ -27,5 +28,8 @@ This can help ensure that your package can be installed and run consistently on 
 Before publishing your package, make sure to follow the guidelines for creating and publishing packages on PyPI. This will help ensure that 
 your package is easy for others to install and use. - 5
 
-Create other modules according to chat0, chat1 and stabler (risk module, report module)
-Create functions for each module according to chat0, chat1 and stabler 
+New functions (start with report module)
+  Create other modules according to chat0, chat1 and stabler (risk module, report module)
+  Create functions for each module according to chat0, chat1 and stabler
+  Create tests and documentation
+  Generate a report using data from the stable database
