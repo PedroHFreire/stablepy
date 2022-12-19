@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.py
+stablepy/__init__.py
+stablepy/return_metrics.py
+stablepy.egg-info/PKG-INFO
+stablepy.egg-info/SOURCES.txt
+stablepy.egg-info/dependency_links.txt
+stablepy.egg-info/top_level.txt
