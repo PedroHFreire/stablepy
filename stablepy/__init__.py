@@ -7,3 +7,8 @@ def initialize():
 
 # Execute the initialization code when the package is imported
 initialize()
+
+# Package metadata
+__version__ = "1.0.0"
+__author__ = "John Doe"
+__license__ = "MIT"
