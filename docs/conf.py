@@ -6,8 +6,8 @@ sys.path.insert(0, os.path.abspath('..'))
 from stablepy import __version__
 
 project = 'stablepy'
-copyright = '2022, Your Name'
-author = 'Your Name'
+copyright = '2022, Pedro Freire'
+author = 'Pedro Freire'
 version = __version__
 release = __version__
 
