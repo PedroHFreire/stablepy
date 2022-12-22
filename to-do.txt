@@ -13,6 +13,9 @@ New functions (start with report module) 4
   Create functions for each module according to chat0, chat1 and stabler
   Create tests and documentation
 
+Write documentation for your package. This can include a README file that describes 
+what your package does, how to install it, and how to use it. You may also want to include 
+API documentation for each of your functions and modules. 5
 
 ## Done
 4.	Create a __init__.py file in the root directory of your package. This file is used 
@@ -31,10 +34,6 @@ Choose a license for your package. This will allow others to use and modify your
 provided they adhere to the terms of the license. Some common open source licenses 
 include the MIT License, the Apache License, and the GNU General Public License (GPL). 
 You can specify the license in the setup.py file. - ok
-
-Write documentation for your package. This can include a README file that describes 
-what your package does, how to install it, and how to use it. You may also want to include 
-API documentation for each of your functions and modules. ok
 
 Create a test suite for your package. This can help ensure that your package is working 
 correctly and can be used by others with confidence. You can use a testing framework 
